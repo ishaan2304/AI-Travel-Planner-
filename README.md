@@ -14,3 +14,5 @@ A Python app that uses Gemini AI to generate personalized travel itineraries. Us
 To install the necessary dependencies, run:
 ```bash
 pip install -r requirements.txt
+```
+Feel free to share feedback and suggestions
