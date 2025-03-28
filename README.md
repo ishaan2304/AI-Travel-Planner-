@@ -15,4 +15,4 @@ To install the necessary dependencies, run:
 ```bash
 pip install -r requirements.txt
 ```
-Feel free to share feedback and suggestions
+
