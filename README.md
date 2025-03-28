@@ -15,4 +15,7 @@ To install the necessary dependencies, run:
 ```bash
 pip install -r requirements.txt
 ```
-
+## Clone the repository
+```bash
+https://github.com/ishaan2304/AI-Travel-Planner-.git
+```
