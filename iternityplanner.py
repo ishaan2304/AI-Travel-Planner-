@@ -3,7 +3,6 @@ import tkinter as tk
 from tkinter import messagebox, scrolledtext
 from google.generativeai import configure, GenerativeModel
 
-# Configure Gemini API (Replace with your own API key)
 configure(api_key="AIzaSyDrryUjXnj_XcsVN0d4CJOqvDWV2P5-3qs")
 gemini_model = GenerativeModel("gemini-2.0-flash")
 
