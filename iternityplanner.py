@@ -99,7 +99,6 @@ def create_ui():
     generate_btn = tk.Button(root, text="✨ Generate AI Itinerary ✨", font=("Arial", 14, "bold"), bg="#ff4500", fg="white", command=get_itinerary)
     generate_btn.pack(pady=20)
 
-    # Scrollable output box
     result_text = scrolledtext.ScrolledText(root, font=("Arial", 12), height=18, width=80, state=tk.DISABLED, wrap=tk.WORD, bg="#fffafa", fg="#333")
     result_text.pack(pady=10)
 
