@@ -34,7 +34,6 @@ def generate_itinerary(city: str, interests: List[str], days: int) -> str:
     except Exception as e:
         return f"⚠️ Error generating itinerary: {str(e)}"
 
-# GUI Setup
 def create_ui():
     def get_itinerary():
         city = city_entry.get().strip()
